@@ -1,0 +1,17 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+*.swp
+
+# Third-party material and large files (do not commit)
+*.pdf
+*.iso
+*.qcow2
+*.vmdk
+*.ova
+
+# EVE-NG images and exported lab binaries
+*.unl
